@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    height: 100vh;
+    background-image: url(./ods_15_forest_ecosystems_reforestation_bbva.avif);
+    background-size: cover;
+    background-position: center;
+    color:rgb(rgb(17, 0, 255), green, blue);
+    font-family: 'Times New Roman',Times,serif;
+}
+.main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    font-size: 64px;
+    margin: 0%;
+    color:#dee75c;
+}
+p{
+    border-top: solid 5px white ;
+    padding: 10px;
+    background-color:#2E8B57;
+    border-radius: 50px;
+}
+button{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+a{
+    font-weight: 700;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgba(0, 255, 170, 0.815);
+    border-radius: 12px;
+}
